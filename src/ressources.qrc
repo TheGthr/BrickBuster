@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/tex">
+        <file>res/rockywall.png</file>
+        <file>res/brick.jpg</file>
+        <file>res/brick2.jpg</file>
+        <file>res/ball.png</file>
+        <file>res/ball2.jpg</file>
+        <file>res/ball3.jpg</file>
+        <file>res/brick3.jpg</file>
+        <file>res/bg.jpg</file>
+        <file>res/bg2.jpg</file>
+        <file>res/pal.JPG</file>
+    </qresource>
+</RCC>
